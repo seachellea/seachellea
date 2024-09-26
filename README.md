@@ -1,5 +1,5 @@
 # Hey there 👋
-I'm Rochelle, a recent BS Information Technology graduate. Yet, at my core, I'm a creative soul captivated by arts and design. My passion drives me towards Web Development and UI/UX Design, but I'm eager to explore the vast landscape of IT and broaden my horizons and skillset! 👩‍💻 I still have a lot to learn, but discovering joy in the process of self-improvement keeps me going and fills me with excitement for what's to come 🤩✨
+I'm Rochelle, a recent BS Information Technology graduate. Yet, at my core, I'm a creative soul captivated by arts and design. My passion drives me towards Web Development and UI/UX Design, but I'm eager to explore the vast landscape of the tech industry and broaden my horizons! 👩‍💻 I still have a lot to learn, but discovering joy in the process of self-improvement keeps me going and fills me with excitement for what's to come 🤩✨
 
 <br>
 
